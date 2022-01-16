@@ -13,7 +13,6 @@
 | Minesweeper      | Inactive       |
 
 
-<br />
 ## Languages with experience
 <img align="left" alt="C" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
