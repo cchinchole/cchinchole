@@ -4,5 +4,12 @@
 
 | Name      | Status |
 | ----------- | ----------- |
-| Minecraft Maverick      | <span style="color:red">Inactive</span>.       |
-| Paragraph   | Text        |
+| AC Maverick   | Active        |
+| HobbyOS   | Active        |
+| Cherry Blossom Fractals      | Inactive       |
+| Cofhtest      | Inactive       |
+| Game of Life      | Inactive       |
+| Havocsigns      | Inactive       |
+| Havocranks      | Inactive       |
+| Minecraft Maverick      | Inactive       |
+| Minesweeper      | Inactive       |
