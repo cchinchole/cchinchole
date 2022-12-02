@@ -2,7 +2,7 @@
 
 | Name      | Status |
 | ----------- | ----------- |
-| AC Maverick   | Active        |
+| AC Maverick   | Active - New repo soon      |
 | HobbyOS   | Active        |
 | Cherry Blossom Fractals      | Inactive       |
 | Game of Life      | Inactive       |
