@@ -8,5 +8,5 @@
 
 
 ## Languages with experience
-C, C++, C#, rust, Java, PHP, and Python
+C, C++, C#, Rust, Java, PHP, and Python
 <br />
